@@ -1,0 +1,51 @@
+HTML->skeleton only
+CSS->designing
+
+LINKS AND IMAGES
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>links and images</title>
+</head>
+<body>
+    <a href="https://google.com">go to google</a>
+    <a href="https://facebook.com">go to facebook</a>
+    <a href="https://twitter.com">got to twitter</a>
+    <a href="https://youtube.com">got to youtube</a>
+</body>
+</html>
+
+TAGS AND ATTRIBUTES
+ <a href="https://google.com"target="_blank">go to google</a>
+    <a href="https://facebook.com"target="_blank">go to facebook</a>
+    <a href="https://twitter.com"target="_blank">got to twitter</a>
+    <a href="https://youtube.com"target="_blank">got to youtube</a>
+
+*target="_blank"->opens link in a new tab
+*<br>->breaks the line
+*cltrl+d->copies line below
+*cltrl+/->to comment
+*alt+down arrow->moves line downwards
+
+IMAGES
+<img src="" alt="error" width="" height=''>
+*alt->when image cant be shownn then what to see
+*src->link to the image
+
+LISTS AND TABLES
+IDS AND CLASSES
+div.redbg.blackBoreder.anotherClass-><div class="redbg blackBoreder anotherClass"></div>
+
+HTML ENTITIES
+*&npsd-> to include spaces
+*&lt;p&gt;-><p>
+*&pound->pound symbol
+*&copyright->copyright symbol
+*
+
+SEMANTIC TAGS***
+
+CSS-INLINE,INTERNAL,EXTERNAL
+*jo pehle li hai wo pehla oreder legi
